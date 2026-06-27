@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Interpretable and Transferable LLM Heuristics for Multi-Machine Scheduling"
+authors:
+  - family-names: "Author"
+    given-names: "One"
+year: 2026
